@@ -1,0 +1,2 @@
+get minecraft_server.jar from https://s3.amazonaws.com/MinecraftDownload/launcher/minecraft_server.jar?
+get minecraft-server-1.2.5.jar from http://repo.bukkit.org/content/repositories/releases/org/bukkit/minecraft-server/1.2.5/minecraft-server-1.2.5.jar
